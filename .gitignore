@@ -1,6 +1,6 @@
 node_modules
 bin
-dist
+# dist
 output
 .tsup
 src/bin
